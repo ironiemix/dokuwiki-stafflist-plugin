@@ -37,10 +37,10 @@ class syntax_plugin_stafflist extends DokuWiki_Syntax_Plugin {
         return array(
             'author' => 'Frank Schiebel',
             'email'  => 'frank@ua25.de',
-            'date'   => '2009-11-16',
-            'name'   => 'Filelist Plugin',
-            'desc'   => 'Lists files matching a given glob pattern.',
-            'url'    => 'http://foosel.org/snippets/dokuwiki/stafflist',
+            'date'   => '2015-10-22',
+            'name'   => 'Stafflist Plugin',
+            'desc'   => 'Shows a staff list created from a CSV file',
+            'url'    => 'http://www.openschulportfolio.de',
         );
     }
 
